@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "940071804349",
+    "project_id": "shoppers-ae140",
+    "storage_bucket": "shoppers-ae140.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:940071804349:android:7ecfd1ca9604c4a8a686d4",
+        "android_client_info": {
+          "package_name": "com.sujay.black_coffer"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "940071804349-urh0qfn93fou8jucl699kf95jte63uic.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAn7Bhc53V5LrjlWt76CWAVGlLWWoZlQaU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "940071804349-urh0qfn93fou8jucl699kf95jte63uic.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
